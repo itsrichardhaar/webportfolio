@@ -1,7 +1,7 @@
 /*!
  * viewport-units-buggyfill v0.6.1
  * @web: https://github.com/rodneyrehm/viewport-units-buggyfill/
- * @author: Rodney Rehm - http://rodneyrehm.de/en/
+ * @author: Rodney Rehm - https://rodneyrehm.de/en/
  */
 
 (function(root, factory) {
