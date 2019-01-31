@@ -1,11 +1,11 @@
 /*--------------------------------------------------------------------
  * Copyright (c) 2009 Vision Master Designs
- * Licensed under GPL (http://www.opensource.org/licenses/gpl-license.php)
+ * Licensed under GPL (https://www.opensource.org/licenses/gpl-license.php)
 
  * JQuery Plugin : "Switch Stylesheet"
- * Author : Michael (http://www.visionmasterdesigns.com)
+ * Author : Michael (https://www.visionmasterdesigns.com)
  * Version : 1.0
- * Description : Based on the superb stylesheet switcher plugin by By Kelvin Luck ( http://www.kelvinluck.com/ ).
+ * Description : Based on the superb stylesheet switcher plugin by By Kelvin Luck ( https://www.kelvinluck.com/ ).
  				 Can create multiple groups of alternate stylesheets to change
 				 
 Ex :
